@@ -1,0 +1,382 @@
+<<<<<<< HEAD
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\appsettings.Development.json
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\appsettings.json
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\GameLib.exe
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\GameLib.deps.json
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\GameLib.runtimeconfig.json
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\GameLib.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\GameLib.pdb
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Castle.Core.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Humanizer.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Npgsql.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\System.CodeDom.dll
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.AssemblyReference.cache
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfoInputs.cache
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfo.cs
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.CoreCompileInputs.cache
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cs
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cache
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.GameLib.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.build.GameLib.props
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GameLib.props
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GameLib.props
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.pack.json
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.build.json
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.development.json
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\scopedcss\bundle\GameLib.styles.css
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.CopyComplete
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.dll
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\refint\GameLib.dll
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.pdb
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\GameLib.genruntimeconfig.cache
+D:\RiderProject\GameLib\GameLib\obj\Debug\net7.0\ref\GameLib.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RiderProject\GameLib\GameLib\bin\Debug\net7.0\BCrypt.Net.dll
+=======
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/appsettings.Development.json
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/appsettings.json
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/GameLib.exe
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/GameLib.deps.json
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/GameLib.runtimeconfig.json
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/GameLib.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/GameLib.pdb
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Castle.Core.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Humanizer.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Proxies.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Npgsql.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/System.CodeDom.dll
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.csproj.AssemblyReference.cache
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.GeneratedMSBuildEditorConfig.editorconfig
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.AssemblyInfoInputs.cache
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.AssemblyInfo.cs
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.csproj.CoreCompileInputs.cache
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.MvcApplicationPartsAssemblyInfo.cs
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.MvcApplicationPartsAssemblyInfo.cache
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/staticwebassets/msbuild.GameLib.Microsoft.AspNetCore.StaticWebAssets.props
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/staticwebassets/msbuild.build.GameLib.props
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GameLib.props
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GameLib.props
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/staticwebassets.pack.json
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/staticwebassets.build.json
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/staticwebassets.development.json
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/scopedcss/bundle/GameLib.styles.css
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.csproj.CopyComplete
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.dll
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/refint/GameLib.dll
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.pdb
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/GameLib.genruntimeconfig.cache
+D:/RiderProject/GameLib/GameLib/obj/Debug/net7.0/ref/GameLib.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/RiderProject/GameLib/GameLib/bin/Debug/net7.0/BCrypt.Net.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/appsettings.Development.json
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/appsettings.json
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/GameLib
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/GameLib.deps.json
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/GameLib.runtimeconfig.json
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/GameLib.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/GameLib.pdb
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/BCrypt.Net.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Castle.Core.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Humanizer.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Npgsql.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/System.CodeDom.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.csproj.AssemblyReference.cache
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.AssemblyInfoInputs.cache
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.AssemblyInfo.cs
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.csproj.CoreCompileInputs.cache
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.MvcApplicationPartsAssemblyInfo.cs
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.MvcApplicationPartsAssemblyInfo.cache
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.sourcelink.json
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/staticwebassets.build.json
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/staticwebassets.development.json
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/staticwebassets/msbuild.GameLib.Microsoft.AspNetCore.StaticWebAssets.props
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/staticwebassets/msbuild.build.GameLib.props
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GameLib.props
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GameLib.props
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/staticwebassets.pack.json
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/scopedcss/bundle/GameLib.styles.css
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.csproj.CopyComplete
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/refint/GameLib.dll
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.pdb
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/GameLib.genruntimeconfig.cache
+/home/maksimk30/Downloads/Telegram Desktop/GameLib/GameLib/obj/Debug/net7.0/ref/GameLib.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\appsettings.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\GameLib.exe
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\GameLib.deps.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\GameLib.runtimeconfig.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\GameLib.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\GameLib.pdb
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.AssemblyReference.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfoInputs.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfo.cs
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.CoreCompileInputs.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.GameLib.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.build.GameLib.props
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GameLib.props
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GameLib.props
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\scopedcss\bundle\GameLib.styles.css
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.CopyComplete
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\refint\GameLib.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.pdb
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\GameLib.genruntimeconfig.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLib\GameLib\obj\Debug\net7.0\ref\GameLib.dll
+>>>>>>> a7f6dd99caf4a97fbd139c6b5168dc455a8841a5
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\appsettings.json
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\GameLib.exe
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\GameLib.deps.json
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\GameLib.runtimeconfig.json
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\GameLib.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\GameLib.pdb
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.AssemblyReference.cache
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfoInputs.cache
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfo.cs
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.CoreCompileInputs.cache
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.GameLib.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.build.GameLib.props
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GameLib.props
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GameLib.props
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\scopedcss\bundle\GameLib.styles.css
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.csproj.CopyComplete
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\refint\GameLib.dll
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.pdb
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\GameLib.genruntimeconfig.cache
+C:\Users\Zumbrello\Desktop\GameLib\GameLib\obj\Debug\net7.0\ref\GameLib.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\appsettings.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\GameLib.exe
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\GameLib.deps.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\GameLib.runtimeconfig.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\GameLib.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\GameLib.pdb
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.csproj.AssemblyReference.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfoInputs.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfo.cs
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.csproj.CoreCompileInputs.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.GameLib.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.build.GameLib.props
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GameLib.props
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GameLib.props
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\scopedcss\bundle\GameLib.styles.css
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.csproj.CopyComplete
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\refint\GameLib.dll
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.pdb
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\GameLib.genruntimeconfig.cache
+C:\Users\Zumbrello\Desktop\Новая папка\GameLibAPI-main\GameLib\obj\Debug\net7.0\ref\GameLib.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\appsettings.json
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\GameLib.exe
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\GameLib.deps.json
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\GameLib.runtimeconfig.json
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\GameLib.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\GameLib.pdb
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.csproj.AssemblyReference.cache
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfoInputs.cache
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.AssemblyInfo.cs
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.csproj.CoreCompileInputs.cache
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.GameLib.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.build.GameLib.props
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GameLib.props
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GameLib.props
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\scopedcss\bundle\GameLib.styles.css
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.csproj.CopyComplete
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\refint\GameLib.dll
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.pdb
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\GameLib.genruntimeconfig.cache
+C:\Users\Zumbrello\Desktop\GameLibAPI-master\GameLib\obj\Debug\net7.0\ref\GameLib.dll
