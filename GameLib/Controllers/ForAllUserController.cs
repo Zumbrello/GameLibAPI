@@ -269,7 +269,7 @@ public class ForAllUserController : ControllerBase
             };
 
             // Возвращаем токен
-            return Ok(new { loginResponse });
+            return Ok(token);
             
         }
         else
